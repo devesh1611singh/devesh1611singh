@@ -1,4 +1,4 @@
-## Hi there, Devesh here. 👋🏽
+## Hi there, Devesh here. 👋🏼
 
 I’m a Ph.D. researcher at the [University Hospital Rostock (UMR)](https://www.med.uni-rostock.de/en/) and the [German Center for Neurodegenerative Diseases (DZNE)](https://www.dzne.de/en/) in Rostock. I recently began supporting UMR in its implementation of the [Open Medical Inference (OMI)](https://omi.ikim.nrw/) platform to enable peer-to-peer exchange of healthcare data and access to remote AI services. Previously at DZNE, I was working within the Clinical Dementia Research Group under the guidance of Prof. Dr. Stefan Teipel and [Dr. Martin Dyrba](https://explaination.net/). In 2022, I graduated with an M.Sc. in Data and Knowledge Engineering from Otto von Guericke University (OvGU), Magdeburg, where I specialized in deep learning and computer vision.
 
